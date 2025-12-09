@@ -1,0 +1,4 @@
+{
+  "name": "Arix Signature Interactive Christmas Tree",
+  "description": "A high-fidelity 3D interactive experience featuring an opulent, cinematic Christmas tree that morphs between a chaotic scattered state and a perfect conical form. Built with React Three Fiber, custom shaders, and instanced rendering for performance."
+}
